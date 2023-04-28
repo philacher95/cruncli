@@ -1,11 +1,11 @@
-# cruncli
-A command line Tool for automation system commands
+# Cruncli
+Cruncli is a command line tool that automates system commands. It simplifies the process of executing frequently used commands in a fast and efficient way.
 
-# Requirement:
-1. Install Python
+# Requirements
+To use Cruncli, you need to have Python installed on your system.
 
 # INSTALLATION
-> Navigate to "command_run" folder and run below command:
+> Navigate to "cruncli" folder and run below command:
 	`pip install -e .`
   
 { 'crun' becomes a global package that runs in your terminal }
@@ -15,12 +15,12 @@ A command line Tool for automation system commands
 > Create a `CFILE.json` file in any source code or directory
 - Sample File content -
 - 
-`{
-  "target": "command",
-  "list target": [
-	"command 1",
-	"command 2"
-   ]
-}`
+`-{
+  -"target": "command",
+  -"list target": [
+	-"command 1",
+	-"command 2"
+   -]
+-}`
 
 # NB: double quotes only (JSON)
