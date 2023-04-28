@@ -1,0 +1,4 @@
+
+	[console_scripts]
+	crun=crun:crun
+	

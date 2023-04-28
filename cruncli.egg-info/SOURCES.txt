@@ -1,0 +1,7 @@
+setup.py
+cruncli.egg-info/PKG-INFO
+cruncli.egg-info/SOURCES.txt
+cruncli.egg-info/dependency_links.txt
+cruncli.egg-info/entry_points.txt
+cruncli.egg-info/requires.txt
+cruncli.egg-info/top_level.txt
