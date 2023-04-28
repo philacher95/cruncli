@@ -14,12 +14,12 @@ A command line Tool for automation system commands
 # USAGE
 >> Create a `CFILE.json` file in any source code or directory
 - Sample File content
-{
+`{
   "target": "command",
   "list target": [
 	"command 1",
 	"command 2"
    ]
-}
+}`
 
 # NB: double quotes only (JSON)
